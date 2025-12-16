@@ -1,0 +1,15 @@
+name: example
+description: Example app for dynamic_form_builder1
+
+environment:
+  sdk: ">=3.6.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  dynamic_form_builder1:
+    path: ../
+
+flutter:
+  uses-material-design: true
